@@ -1,12 +1,6 @@
-### SDCND_Proj1
+### **SDCND_Proj1: Finding Lane Lines on the Road**
 
-Udacity Self-Driving Car Nanodegree
-
-Finding Lane Lines on the Road
-
-# **Finding Lane Lines on the Road** 
-
-## Writeup
+### Writeup
 
 ---
 
