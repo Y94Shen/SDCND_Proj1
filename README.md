@@ -39,11 +39,11 @@ My pipeline consisted of 6 steps.
 
 One potential shortcoming would be what would happen when light color cars/rocks appear in the region of interest. This leads to the fluctuation of the lines drawn.
 
-Another shortcoming could be the light intensity changes (e.g., shades from the trees)
+Another shortcoming could be the light intensity changes (e.g., shades from the trees).
 
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to ...
+A possible improvement would be to make the line drawing part more robust, like looking back to the 10-20 frames and taking an average.
 
-Another potential improvement could be to ...
+Another potential improvement could be to try different color spaces.
